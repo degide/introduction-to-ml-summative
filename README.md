@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project presents a comparative analysis of traditional machine learning and deep learning models for predicting monthly egg yield rates among smallholder poultry farmers in Rwanda. The analysis leverages original microdata from the Rwanda Agricultural Household Survey (AHS) 2024 and aims to provide actionable insights for agricultural extension services.
+This project presents a comparative analysis of traditional machine learning and deep learning models for predicting monthly egg yield rates among smallholder poultry farmers in Rwanda. The analysis uses original microdata from the Rwanda Agricultural Household Survey (AHS) 2024 and aims to provide actionable insights for agricultural extension services.
 
 ## Mission Statement
 
-My mission is to leverage technology-driven, evidence-based solutions to enhance agricultural productivity, improve farm efficiency, empower smallholder farmers, and strengthen national food systems through scalable and measurable interventions.
+My mission is to leverage technology-driven and evidence-based solutions to enhance agricultural productivity, improve farm efficiency, empower smallholder farmers, and strengthen national food systems through scalable and measurable interventions.
 
 ## Files Included
 
@@ -35,12 +35,17 @@ My mission is to leverage technology-driven, evidence-based solutions to enhance
    ```
 4. **Run all cells** to reproduce the results and visualizations.
 
-## How to Use
+## Setup and Usage
 
 - Use the notebook to explore the code, modify experiments, or apply the workflow to new data.
 - Refer to the data documentation (`ddi-documentation-english-123.pdf`) for variable definitions and survey context.
+- The microdata dataset is conveniently included in the repository under the `Microdata.zip` file
 
-## Disclaimer.
+## Contributors
 
-Dataset usage restrictions by Rwanda National Institute of Statistics (NIST) apply.
+- Egide HARERIMANA [h.egide@alustudent.com]
+
+## Disclaimer
+
+DATASET USAGE TERMS AND RESTRICTIONS BY THE NATIONAL INSTITUTE OF STATISTICS OF RWANDA (NISR) APPLY.
 
